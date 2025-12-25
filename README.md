@@ -127,8 +127,7 @@ def get_logger(self):
 年卡：使用期限1年，799元。年卡可多次购买。适合长期采集需求
 ```
 付费方式：
-![收款码v2](https://files.mdnice.com/user/32110/4cf2481a-6baa-40d4-8360-baa3a8a21389.png)
-
+<img width="2144" height="412" alt="收款码v4" src="https://github.com/user-attachments/assets/0d20786f-1d2e-4384-ab40-11a7723d8b25" />
 
 付费后，加我微信（493882434）获取登录卡密。
 
@@ -142,4 +141,4 @@ def get_logger(self):
 
 # 五、软件获取
 "**爬微博博主软件**"首发微信公众号"**老男孩的平凡之路**"，欢迎交流！
-![二维码-公众号放底部](https://github.com/user-attachments/assets/174945b2-dbbb-466d-b6c7-bacc9b778cbc)
+<img width="1938" height="364" alt="二维码-公众号放底部v2" src="https://github.com/user-attachments/assets/99164b04-d6f5-4217-979b-dc55c84856d5" />
