@@ -12,10 +12,10 @@
 曾经和很多同学聊过，他们希望有一个工具，可以把微博指定用户的已发布帖子的数据采集下来，然后做数据分析使用。为了满足这类需求，我特意用python开发了这款工具：**weibo_user_post_tool**
 
 软件运行界面：
-![软件运行界面](https://files.mdnice.com/user/32110/243fe257-6c65-4197-b04b-28b69f35e41b.png)
+![软件运行界面](images/wup_01.png)
 
 采集结果展示：
-![采集结果csv](https://files.mdnice.com/user/32110/bf28a20e-d685-4798-9358-5d18636653af.jpg)
+![采集结果csv](images/wup_02.jpg)
 
 以上。
 
@@ -109,7 +109,7 @@ def get_logger(self):
 	return self.logger
 ```
 日志文件截图：
-![log文件](https://files.mdnice.com/user/32110/ed206930-2bd0-4a8a-af34-59dfcbf0623d.png)
+![log文件](images/wup_03.png)
 
 以上。
 
